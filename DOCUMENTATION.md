@@ -1,6 +1,6 @@
 # Neovim Customize Right Now After Learning In 1 Day's
 
-saya bakal terus belajar dan menaruh hasil pembelajaran saya disini, stay tuned semuanya untuk file-file configurasi nya dan dokumentasi simple menggunakan bahasa indonesia yang akan memudahkan kalian untuk memahaminya, Tujuan saya mendokumentasikan belajar saya bukan untuk menjadi guru yang mengajari kalian karna saya ## masih belajar 
+saya bakal terus belajar dan menaruh hasil pembelajaran saya disini, stay tuned semuanya untuk file-file configurasi nya dan dokumentasi simple menggunakan bahasa indonesia yang akan memudahkan kalian untuk memahaminya, Tujuan saya mendokumentasikan belajar saya bukan untuk menjadi guru yang mengajari kalian karna saya masih belajar yaa rekann-rekan. Mari belajar bersama 🙏
 
 ![image alt](https://github.com/firghiazhim/nvim/blob/ddf64008d69a2f30f45274668491c34be8e31287/screenshot_2025-06-12_19%3A19%3A08_000.png)
 
