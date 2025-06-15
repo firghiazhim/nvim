@@ -36,3 +36,12 @@ vim.keymap.set('n', '<A-1>','<C-w>s', opts)
 vim.keymap.set('n', '<A-2>','<C-w>v', opts)
 vim.keymap.set('n', '<A-q>',':q<CR>', opts)
 
+-- Terminal - term
+vim.keymap.set('n', '<C-/>', ':split | term<CR>')
+vim.keymap.set('n', '<C-v>', ':vsplit | term<CR>')
+vim.keymap.set('n', '<C-t>', ':tabnew | term<CR>', {desc = "Terminal New Tab"})
+vim.keymap.set('t', '<Esc>', [[<C-\><C-n>]], { desc = 'Terminal Normal Mode' })
+vim.keymap.set('t', '<leader>tc', [[<C-\><C-n>:bd!<CR>]], { desc = 'Close Terminal Buffer' })
+
+-- open firefox 
+vim.keymap.set('n', '<C-l>', ':!firefox %<CR>', opts)
