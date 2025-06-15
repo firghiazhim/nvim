@@ -6,8 +6,10 @@ saya bakal terus belajar dan menaruh hasil pembelajaran saya disini, stay tuned 
 
 # Install Neovim 
 saya asumsikan kalian semua sudah mendownload neovim itu, jika belum silahkan cari dokumentasi cara untuk menginstall neovim yaa, soalnya saya juga browsing juga cara install nyaa ingat "Manfaatkan Tekhnologi" (:D). Setelah rekan-rekan sudah menginstall neeovim pastikan juga sudah terinstall dengan baik, untuk cek nya kita cek versi dari neovim nya dengan mengetikkan 
-```bash
+```
+bash
 nvim --version
+```
 
 
 # Terminal
