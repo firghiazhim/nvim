@@ -33,3 +33,4 @@ Untuk menggunakan nvim sebagai IDE kalian aku sarankan kalian menggunakan termin
 # Font Nerd Font
 Disini kalian perlu install font yang dari Nerd Font atau yang lain sesaui keinginan kalian tapi kali ini saya pake JetBrains MonoNerd Font, jadi untuk apa harus menggunakan font dari Nerd Font???? karna, jika kalian contohnya pake Lazyvim itu kalian harus menginstall Font yang direkomendasikan dari Lazyvim nya bertujuan untuk memunculkan Icon-Icon nya, jadi kalo font nya tidak sesuai icon nya pun tidak aka sempurna/bisa jadi tidak ada font nya. maka dari itu aku saranin kalian install dulu font yang di perlukan untuk permulaan sih samain aja kaya aku pake JetBrainsMono karna banyak youtube juga yang bikin tutorial seputar Neovim, Alacritty, dan i3 Wm pada pake jetbrain mono
 
+
